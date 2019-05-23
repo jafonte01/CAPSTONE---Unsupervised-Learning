@@ -3,3 +3,12 @@
 *.xml
 blogs.zip
 C50.zip
+.ipynb_checkpoints/Unit 4 NEW Capstone -checkpoint.ipynb
+COMPLETE_NLP-test.csv
+COMPLETE_NLP-train.csv
+K-MeansElbowTRAIN.png
+NEW_COMPLETE_NLP-test.csv
+NEW_COMPLETE_NLP-train.csv
+NLPified_text.csv
+VECTORIZED-test.csv
+VECTORIZED-train.csv
