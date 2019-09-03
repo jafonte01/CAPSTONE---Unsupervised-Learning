@@ -8,5 +8,5 @@
 
 NLP and clustering analysis of article content is found here.
 
-Enjoy, 
+Enjoy, <br>
 John A. Fonte, Esq.
